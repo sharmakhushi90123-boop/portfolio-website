@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./cover.svg" alt="Khushi Sharma Developer Portfolio Cover" width="100%" />
+</div>
+
 # Khushi Sharma - Personal Developer Portfolio Website 🚀
 
 A modern, responsive, and high-performance developer portfolio website built with HTML5, Tailwind CSS, and Lucide Icons. Designed for clean presentation, project showcasing, and easy deployment on Vercel and GitHub Pages.
