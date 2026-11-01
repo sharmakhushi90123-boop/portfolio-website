@@ -1,4 +1,4 @@
-# Personal Developer Portfolio Website 🚀
+# Khushi Sharma - Personal Developer Portfolio Website 🚀
 
 A modern, responsive, and high-performance developer portfolio website built with HTML5, Tailwind CSS, and Lucide Icons. Designed for clean presentation, project showcasing, and easy deployment on Vercel and GitHub Pages.
 
@@ -9,7 +9,7 @@ A modern, responsive, and high-performance developer portfolio website built wit
 - **Featured Projects**: Showcase cards with technology tags, live demo links, and GitHub repositories.
 - **Interactive Contact Form**: Client-side validated form with immediate feedback.
 - **Fully Responsive**: Flawless experience across mobile, tablet, and desktop screens.
-- **1-Click Deployment**: Ready for Vercel, Netlify, and GitHub Pages.
+- **1-Click Deployment**: Ready for Vercel and GitHub Pages.
 
 ## 🛠️ Built With
 - **HTML5 & Vanilla JavaScript**
@@ -18,8 +18,8 @@ A modern, responsive, and high-performance developer portfolio website built wit
 - **Plus Jakarta Sans & JetBrains Mono** (Google Fonts)
 
 ## 🚀 Live Demo & Deployment
-- **GitHub Repository**: [https://github.com/aki2op2-hub/portfolio-website](https://github.com/aki2op2-hub/portfolio-website)
-- **Deployment Platform**: Vercel & GitHub Pages
+- **GitHub Repository**: [https://github.com/sharmakhushi90123-boop/portfolio-website](https://github.com/sharmakhushi90123-boop/portfolio-website)
+- **Live Deployment**: Vercel & GitHub Pages
 
 ---
 *Created as part of the Handshake "Create Your First Website and Share It on GitHub" Mission.*
