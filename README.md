@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./cover.svg" alt="Khushi Sharma Developer Portfolio Cover" width="100%" />
+  <img src="./cover.jpg" alt="Khushi Sharma Developer Portfolio Cover" width="100%" />
 </div>
 
 # Khushi Sharma - Personal Developer Portfolio Website 🚀
